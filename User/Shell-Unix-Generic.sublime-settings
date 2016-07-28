@@ -1,0 +1,7 @@
+{
+    "color_scheme": "Packages/User/CarlShellDark.tmTheme", 
+    "color_scheme_dark": "Packages/User/CarlShellDark.tmTheme", 
+    "color_scheme_light": "Packages/User/CarlShellLight.tmTheme", 
+    "line_numbers": true, 
+    "spell_check": false
+}

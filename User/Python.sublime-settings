@@ -1,0 +1,33 @@
+{
+	"auto_complete": true,
+	"auto_complete_selector": "-",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source"
+		}
+	],
+	"auto_indent": true,
+	"color_scheme": "Packages/User/CarlShellLight.tmTheme",
+	"draw_white_space": "all",
+	"extensions":
+	[
+		"py3",
+		"pyw",
+		"pt"
+	],
+	"line_numbers": true,
+	"rulers":
+	[
+		79
+	],
+	"smart_indent": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"use_tab_stops": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}

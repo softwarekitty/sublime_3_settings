@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>author</key>
+    <string>$author</string>
+    <key>name</key>
+    <string>$ThemeName</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>${bg}</string>
+                <key>caret</key>
+                <string>${fg}</string>
+                <key>foreground</key>
+                <string>${fg}</string>
+                <key>invisibles</key>
+                <string>${bg1}</string>
+                <key>selection</key>
+                <string>${selection}</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>

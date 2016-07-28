@@ -1,0 +1,14 @@
+# New in Primer 1.0.2
+
+- Darkened Quick Panel's row text color
+- Fixed Goto Anything's background color
+- Added border to text inputs
+- Increased text input size
+- Vertically centered text input
+
+*Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

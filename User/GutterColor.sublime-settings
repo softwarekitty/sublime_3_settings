@@ -1,0 +1,16 @@
+{
+    "convert_path": "/usr/local/bin/convert", 
+    "fix_color_schemes": [
+        "global", 
+        "syntax-specific"
+    ], 
+    "supported_syntax": [
+        "css", 
+        "scss", 
+        "sass", 
+        "less", 
+        "stylus", 
+        "css3", 
+        "xml"
+    ]
+}

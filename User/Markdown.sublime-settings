@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"markdown"
+	],
+	"line_numbers": true,
+	"spell_check": false,
+
+    // COLOR
+    // "color_scheme": "Packages/User/Otto Oceamdic.tmTheme",
+    "color_scheme": "Packages/User/Otto Yestermday.tmTheme",
+}

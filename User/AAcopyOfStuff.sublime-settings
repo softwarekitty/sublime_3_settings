@@ -1,0 +1,10 @@
+{
+    "color_scheme": "Packages/User/Neon.tmTheme", 
+    "color_scheme_dark": "Packages/User/Neon.tmTheme", 
+    "color_scheme_light": "Packages/User/CarlShellLight.tmTheme", 
+    "extensions": [
+        "py"
+    ], 
+    "line_numbers": true, 
+    "spell_check": false
+}

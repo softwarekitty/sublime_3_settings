@@ -1,0 +1,10 @@
+{
+    "color_scheme": "Packages/User/Otto Oceamdic.tmTheme", 
+    "color_scheme_dark": "Packages/User/Otto Oceamdic.tmTheme", 
+    "color_scheme_light": "Packages/User/Otto Yestermday.tmTheme", 
+    "extensions": [
+        "md"
+    ], 
+    "line_numbers": true, 
+    "spell_check": false
+}

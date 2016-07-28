@@ -1,0 +1,6 @@
+[
+  { "keys": ["super+shift+j"], "command": "alldark" },
+  { "keys": ["super+shift+l"], "command": "alllight" },
+  { "keys": ["cmd+n"], "command": "advanced_new_file_new"},
+  { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]

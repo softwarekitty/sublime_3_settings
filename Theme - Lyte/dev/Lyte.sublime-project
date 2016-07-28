@@ -1,0 +1,67 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"python",
+				"${project_path}/../src/lyte.py"
+			],
+			"name": "Compile Themes"
+		}
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".no-sublime-package"
+			],
+			"folder_exclude_patterns":
+			[
+				"__pycache__",
+				"src"
+			],
+			"name": "Project Root",
+			"path": "/Users/dflanagan/Library/Application Support/Sublime Text 3/Packages/Theme - Lyte"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".no-sublime-package"
+			],
+			"folder_exclude_patterns":
+			[
+				"__pycache__"
+			],
+			"name": "Builder Source",
+			"path": "/Users/dflanagan/Library/Application Support/Sublime Text 3/Packages/Theme - Lyte/src"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".no-sublime-package",
+				"./__init__.py"
+			],
+			"folder_exclude_patterns":
+			[
+				"__pycache__"
+			],
+			"name": "Themes",
+			"path": "/Users/dflanagan/Library/Application Support/Sublime Text 3/Packages/Theme - Lyte/src/compilations"
+		},
+		{
+			"path": "/Users/dflanagan/Documents/code/personal/guessing_game"
+		}
+	],
+	"settings":
+	{
+		"detect_indentation": false,
+		"rulers":
+		[
+		],
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true,
+		"trim_automatic_white_space": true
+	}
+}
